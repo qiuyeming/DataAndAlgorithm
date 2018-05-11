@@ -1,4 +1,4 @@
-package Bubble
+package bubble
 /*
 最好的情况是做n-1次比较，不移位 O(N)
 最坏的情况是完全逆序，O(N^2)
